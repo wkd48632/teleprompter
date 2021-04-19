@@ -1,0 +1,6 @@
+# (red, green, blue): max 255
+
+BACKGROUND_COLOR = (204, 204, 204)
+BACKGROUND_COLOR_HIGHLIGHT = (0, 0, 0)
+FONT_COLOR = (0, 0, 0)
+FONT_COLOR_HIGHLIGHT = (0, 0, 0)
